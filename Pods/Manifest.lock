@@ -1,0 +1,23 @@
+PODS:
+  - Braintree (3.1.0):
+    - Braintree/api
+    - Braintree/Drop-In
+    - Braintree/PayPal
+    - Braintree/UI
+  - Braintree/api (3.1.0)
+  - Braintree/Drop-In (3.1.0):
+    - Braintree/api
+    - Braintree/PayPal
+    - Braintree/UI
+  - Braintree/PayPal (3.1.0):
+    - Braintree/api
+    - Braintree/UI
+  - Braintree/UI (3.1.0)
+
+DEPENDENCIES:
+  - Braintree
+
+SPEC CHECKSUMS:
+  Braintree: 6eb00376a2c13b93466da83d6ffe62383c78aee8
+
+COCOAPODS: 0.33.1
